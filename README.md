@@ -19,5 +19,5 @@ This repository contains the CAD files for the **The Versatile Shelter** project
 This project was designed and manufactured by:
 - **Qingran WU**
 - **Yanbo CHEN**
-- **Sicheng LU**
 - **Zhiliang HE**
+- **Sicheng LU**
